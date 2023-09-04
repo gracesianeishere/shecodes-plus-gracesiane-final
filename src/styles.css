@@ -44,3 +44,8 @@ h1 {
   border-radius: 10px;
   max-width: 600px;
 }
+
+.open-source {
+  margin: 20px auto;
+  max-width: 600px;
+}
